@@ -1,0 +1,19 @@
+/* Inserte su codigo aqui */
+.negro {background-color: #181725;background-size: 100%; height: 50px;}
+img { width:300px; height: 300px; margin:40px 0px 10px 40px ; }
+.parrafo {margin-bottom: 40px;}
+.fondo {background-color: #D5CFE1}
+p,button,h2 {margin-left: 40px;}
+.blanco {background-color:white; margin-top:25px; }
+.amarillo {width: 960px; height: 500px; background-color:#FFDB00 ;}
+button {background-color:#FAAE09; color:white;
+			 width: 90px; height: 30px; margin-left: 80px;
+			  border-style: none; margin-top: 40px;}
+.dos {margin-left: 150px;}
+a {text-decoration: none; color:white;}
+li {display: inline-block; list-style: none;}
+.espacio {margin: 10px 0px 10px 20px;}
+.arriba {margin-top: 75px;}
+h1 {margin-left: 400px; margin-top: 200px; color: white;}
+.centro {font-size: 12px; color:white; margin-left: 410px;}
+.se {font-size: 16px; margin: 30px 0px;}
